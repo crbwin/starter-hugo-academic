@@ -37,7 +37,10 @@ education:
   courses:
     - course: PhD in Social Psychology
       institution: University of Michigan
-      year: "2021 -"
+      year: "Expected 2026"
+    - course: MS in Social Psychology
+      institution: University of Michigan
+      year: "Expected 2023"
     - course: Pre-Doctoral Researcher
       institution: University of Pennsylvania
       year: 2019 - 2021
