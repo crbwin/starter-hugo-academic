@@ -41,7 +41,7 @@ education:
     - course: Pre-Doctoral Researcher
       institution: University of Pennsylvania
       year: 2019 - 2021
-    - course: BS (Hons.) in Psychology
+    - course: BS (Hons.) in Psychology, Statistics minor
       institution: Brigham Young University
       year: 2019
 superuser: true
