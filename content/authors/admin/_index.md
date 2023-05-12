@@ -37,10 +37,10 @@ education:
   courses:
     - course: PhD in Social Psychology
       institution: University of Michigan
-      year: ""
+      year: "2021 -"
     - course: Pre-Doctoral Researcher
       institution: University of Pennsylvania
-      year: 2019
+      year: 2019 - 2021
     - course: BS (Hons.) in Psychology
       institution: Brigham Young University
       year: 2019
