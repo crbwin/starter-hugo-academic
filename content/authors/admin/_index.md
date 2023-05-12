@@ -1,6 +1,6 @@
 ---
 title: Chayce Baldwin
-role: Professor of Artificial Intelligence
+role: PhD Student in Social Psychology
 avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
