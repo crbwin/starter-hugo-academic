@@ -53,5 +53,7 @@ first_name: Alice
 email: ""
 ---
 
-<br><br>Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+<br>I am a second-year PhD student in Social Psychology at the University of Michigan, working with Ethan Kross and Shinobu Kitayama.  
+
+I research how we manage our perspective and emotions in our day-to-day lives to thrive.  Particularly, I study how people experience  (and regulate toward) perspective and emotions beyond the "here and now". I seek to integrate perspectives and methods from social psychology, cultural psychology, and natural language in my work. You can read more about my interests in the Research tab or about my past work in the Publications tab.
 {style="text-align: justify;"}
