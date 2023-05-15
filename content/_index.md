@@ -213,9 +213,6 @@ sections:
       # Contact (add or remove contact options as necessary)
       email: cbwin [at] umich.edu
       address:
-        'East Hall Office 3221
-         530 Church St.
-         Ann Arbor, MI, $8109-1043'
         building: East Hall Office 3221
         street: 530 Church St.
         city: Ann Arbor
