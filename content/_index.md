@@ -213,6 +213,7 @@ sections:
       # Contact (add or remove contact options as necessary)
       email: cbwin [at] umich.edu
       address:
+        
         building: East Hall Office 3221
         street: 530 Church St.
         city: Ann Arbor
@@ -223,13 +224,6 @@ sections:
       # Automatically link email and phone or display as text?
       autolink: FALSE
       # Email form provider
-      form:
-        provider: netlify
-        formspree:
-          id:
-        netlify:
-          # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
     design:
       columns: '2'
 ---
