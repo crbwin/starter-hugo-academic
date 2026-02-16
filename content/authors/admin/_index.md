@@ -1,7 +1,7 @@
 ---
 title: Chayce Baldwin
 role: PhD Candidate in Psychology
-avatar_filename: avatar.jpg
+avatar_filename: DSC_9590.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
