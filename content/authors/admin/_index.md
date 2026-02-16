@@ -1,6 +1,6 @@
 ---
 title: Chayce Baldwin
-role: PhD Student in Social Psychology
+role: PhD Candidate in Psychology
 avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
@@ -32,15 +32,15 @@ social:
     link: uploads/resume.pdf
 organizations:
   - name: University of Michigan
-    url: https://www.stanford.edu/
+    url: https://lsa.umich.edu/psych
 education:
   courses:
     - course: PhD in Social Psychology
       institution: University of Michigan
-      year: "Expected 2026"
+      year: "Expected 2027"
     - course: MS in Social Psychology
       institution: University of Michigan
-      year: "Expected 2023"
+      year: "2023"
     - course: Pre-Doctoral Researcher
       institution: University of Pennsylvania
       year: 2019 - 2021
@@ -56,7 +56,12 @@ first_name: Alice
 email: ""
 ---
 
-<br>I am a second-year PhD student in Social Psychology at the University of Michigan, working with Ethan Kross and Shinobu Kitayama.  
+<br>I am a PhD candidated in Psychology at the University of Michigan, working with Drs. [Ethan Kross](https://lsa.umich.edu/psych/people/faculty/ekross.html) and [Shinobu Kitayama](https://lsa.umich.edu/psych/people/faculty/kitayama.html).  
 
-I research how we manage our perspective and emotions in our day-to-day lives to thrive.  Particularly, I study how people experience  (and regulate toward) perspective and emotions beyond the "here and now". I seek to integrate perspectives and methods from social psychology, cultural psychology, and natural language in my work. You can read more about my interests in the Research tab or about my past work in the Publications tab.
+
+<b>I study how people pursue well-being</b>
+
+The complex and diverse ways that unfolds in daily life, when it works and when it doesn’t, and in context of the systems in which they live. 
+
+I seek to integrate perspectives and methods from social psychology, cultural psychology, complex systems, and computational approaches in my work. 
 {style="text-align: justify;"}
