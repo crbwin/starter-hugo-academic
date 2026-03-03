@@ -1,13 +1,15 @@
 ---
 title: Chayce Baldwin
-role: PhD Candidate in Psychology
+role: PhD Candidate
 avatar_filename: avatar.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: Chayce Baldwin is a social psychologist studying well-being and culture using diverse methods and populations. 
+
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - emotion regulation
+  - computational modeling
+  - culture and religion
+  - complex systems
+  - natural language processing
 social:
   - icon: envelope
     icon_pack: fas
