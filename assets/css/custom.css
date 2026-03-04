@@ -1,0 +1,4 @@
+/* Add breathing room on the right side of page content */
+.page-body {
+  padding-right: 2rem;
+}
