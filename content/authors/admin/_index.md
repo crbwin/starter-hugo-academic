@@ -28,7 +28,7 @@ social:
     link: https://www.linkedin.com/in/chayce-baldwin-b8043ba5/
   - icon: cv
     icon_pack: ai
-    link: uploads/Chayce Baldwin_CV_2.09.2026.pdf
+    link: uploads/resume.pdf
 organizations:
   - name: University of Michigan
     url: https://lsa.umich.edu/psych
