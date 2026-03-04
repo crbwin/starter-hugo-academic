@@ -63,7 +63,7 @@ Understanding how this works can be surprisingly complex. So, I try to capture a
 
 To do this work, I integrate perspectives and methods from social, affective, and cultural psychology with complex systems, sociology, and computational science. 
 
-I also maintain r4psych.org, a free guide to learning R pragmatically for psychological research. 
+I also maintain [r4psych.org](https://www.r4psych.org/), a free guide to learning R pragmatically for psychological research. 
 
 If you'd like to contact me or are interested in collaborating, you can reach me at cbwin [at] umich.edu.
 {style="text-align: justify;"}
