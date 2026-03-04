@@ -3,3 +3,7 @@ html { outline: 10px solid red !important; }
 .container {
   max-width: 1400px;
 }
+
+#about {
+  background-color: red;
+}
