@@ -2,3 +2,8 @@
   max-width: 1600px;
 }
 
+/* Add breathing room without breaking section backgrounds */
+.section {
+  padding-left: 3rem;
+  padding-right: 3rem;
+}
