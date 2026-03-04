@@ -61,9 +61,9 @@ email: ""
 
 Understanding how this works can be surprisingly complex. So, I try to capture a more organic and comprehensive picture of this striving for thriving by looking beyond individuals to their systems—the cultural, social, and physiological “machines” that configure the interconnected parts of human life to shape well-being.
 
-I seek to integrate perspectives and methods from social, affective, and cultural psychology with complex systems, sociology, and computational science. 
+To do this work, I integrate perspectives and methods from social, affective, and cultural psychology with complex systems, sociology, and computational science. 
 
 I also maintain r4psych.org, a free guide to learning R pragmatically for psychological research. 
 
-If you'd like to contact me, you can reach me at cbwin [at] umich.edu.
+If you'd like to contact me or are interested in collaborating, you can reach me at cbwin [at] umich.edu.
 {style="text-align: justify;"}
