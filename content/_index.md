@@ -61,7 +61,6 @@ sections:
         folders:
           - publication
         exclude_featured: false
-      limit: 3
     design:
       columns: '2'
       view: citation
