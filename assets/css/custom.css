@@ -1,7 +1,3 @@
-/* Add breathing room on the right side of page content */
-.page-body {
-  padding-right: 2rem;
-}
 
 .container {
   max-width: 1400px;
