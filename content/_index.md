@@ -53,6 +53,7 @@ sections:
   - block: collection
     content:
       title: Recent Publications
+      count: 3
       filters:
         folders:
           - publication
