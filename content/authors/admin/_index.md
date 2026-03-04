@@ -55,7 +55,7 @@ first_name: Alice
 email: ""
 ---
 
-<br>I am a PhD candidated in Psychology at the University of Michigan, working with Drs. [Ethan Kross](https://lsa.umich.edu/psych/people/faculty/ekross.html) and [Shinobu Kitayama](https://lsa.umich.edu/psych/people/faculty/kitayama.html).   
+<br>I am a PhD candidate in Psychology at the University of Michigan, working with Drs. [Ethan Kross](https://lsa.umich.edu/psych/people/faculty/ekross.html) and [Shinobu Kitayama](https://lsa.umich.edu/psych/people/faculty/kitayama.html).   
 
 <b>I study how people pursue well-being and how they can do so better.</b>
 
