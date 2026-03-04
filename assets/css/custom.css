@@ -2,3 +2,7 @@
 .page-body {
   padding-right: 2rem;
 }
+
+.container {
+  max-width: 1400px;
+}
