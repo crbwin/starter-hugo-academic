@@ -4,9 +4,9 @@ authors:
   - Daniel Southwick
   - Zhaoying Vitoria Liu
   - admin
-  - Abigail Quirk,
-  - Lyle Ungar,
-  - Chia-Jung Tsay,
+  - Abigail Quirk
+  - Lyle Ungar
+  - Chia-Jung Tsay
   - Angela Duckworth
 date: "2023-01-03T19:22:59.468Z"
 doi: "https://www.sciencedirect.com/science/article/pii/S0749597822001121"
@@ -32,7 +32,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 'content/publication/trouble-with-talent/1-s2.0-S0749597822001121-main.pdf'
+url_pdf: '1-s2.0-S0749597822001121-main.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
