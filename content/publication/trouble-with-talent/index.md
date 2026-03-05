@@ -32,7 +32,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: ''
+url_pdf: 'content/publication/trouble-with-talent/1-s2.0-S0749597822001121-main.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
