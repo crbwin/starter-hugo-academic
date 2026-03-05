@@ -32,7 +32,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: '1-s2.0-S0749597822001121-main.pdf'
+url_pdf: '/uploads/1-s2.0-S0749597822001121-main.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
