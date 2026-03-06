@@ -26,7 +26,7 @@ abstract: 'Emerging research indicates that people use multiple strategies to ma
 
 # Summary. An optional shortened abstract.
 
-summary: 'What does emotion regulation look like in everyday life? Emotion regulation in daily life is far more diverse than typically studied: most strategy combinations are unique, yet many different combinations can be effective when they share key underlying qualities.'
+summary: 'What does emotion regulation look like in everyday life? We find emotion regulation in daily life is far more diverse than typically studied: most strategy combinations are unique, yet many different combinations can be effective when they share key underlying qualities.'
 
 tags: []
 
@@ -62,6 +62,7 @@ projects: []
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-# slides: example
+#   Otherwise, set `slides: ""`. 
+
+slides: "example"
 ---
