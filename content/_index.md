@@ -15,7 +15,7 @@ sections:
   - block: portfolio
     id: projects
     content:
-      title: Projects
+      title: Research Highlights
       filters:
         folders:
           - project
