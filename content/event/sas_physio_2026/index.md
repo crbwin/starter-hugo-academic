@@ -4,7 +4,7 @@ title: Regulating the body to regulate emotion
 event: Society for Affective Science Clinical Pre-Conference
 event_url: https://example.org
 
-location: Pittsburgh, PA
+location: SAS 2026
 # address:
 #  street: 450 Serra Mall
 #  city: Stanford
