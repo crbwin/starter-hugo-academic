@@ -29,7 +29,6 @@ summary: What does emotion regulation look like in everyday life? Emotion regula
 tags:
 - Source Themes
 
-- 
 featured: true
 
 # links:
