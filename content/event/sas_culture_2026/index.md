@@ -2,7 +2,7 @@
 title: Culture shapes how emotion is linked to health
 
 event: Society for Affective Science Annual Conference
-event_url: https://society-for-affective-science.org/2026-sas-annual-conference/
+# event_url: https://society-for-affective-science.org/2026-sas-annual-conference/
 
 location: SAS 2026
 # address:
@@ -12,14 +12,14 @@ location: SAS 2026
 #  postcode: '94305'
 #  country: United States
 
-summary: 'Emotion is intimately linked to health everywhere, yet emotion is fundamentally formed through culture. Is it's influence on physical health different in different cultural contexts?'
+# summary: 'Emotion is intimately linked to health everywhere, yet emotion is fundamentally formed through culture. Is it's influence on physical health different in different cultural contexts?'
 
-abstract: 'Emotions can dramatically influence health. Yet, the link between emotions and health doesn’t seem to be the same everywhere. What's still unclear is how it differs. In this talk, I present new evidence across 165 countries detailing variation in the emotion-health relationship and factors that may explain systematic cross-cultural variation in this link.'
+# abstract: 'Emotions can dramatically influence health. Yet, the link between emotions and health doesn’t seem to be the same everywhere. What's still unclear is how it differs. In this talk, I present new evidence across 165 countries detailing variation in the emotion-health relationship and factors that may explain systematic cross-cultural variation in this link.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2026-03-14T11:00:00Z'
-date_end: '2026-03-14T12:00:00Z'
+# date: '2026-03-14T11:00:00Z'
+# date_end: '2026-03-14T12:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
@@ -60,5 +60,3 @@ slides: ""
 projects:
   - example
 ---
-
-text
