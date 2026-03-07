@@ -2,7 +2,7 @@
 title: Culture shapes how emotion is linked to health
 
 event: Society for Affective Science Annual Conference
-event_url: "https://society-for-affective-science.org/2026-sas-annual-conference/"
+event_url: https://society-for-affective-science.org/2026-sas-annual-conference/
 
 location: SAS 2026
 # address:
