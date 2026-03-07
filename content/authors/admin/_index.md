@@ -1,7 +1,7 @@
 ---
 title: Chayce Baldwin
 role: PhD Candidate
-avatar_filename: avatar.jpg
+avatar_filename: /static/uploads/avatar.jpg
 bio: Chayce Baldwin is a social psychologist studying well-being and culture using diverse methods and populations. 
 
 interests:
