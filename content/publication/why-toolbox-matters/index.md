@@ -77,6 +77,7 @@ AI overview (reviewed and approved by me):<br>
 </div>
 <br>
 Chayce's take-homes:
+
 1. We documented the diverse combinations of strategies people organically use in daily life. And they are diverse: **74% of the more than 5,000 strategy combinations reported in our study were only used by one person, one time.**
 
 2. Remarkably, people were able to effectively regulate with a **wide range of strategies used together**: we found that **the qualities of strategy combinations**, regardless of the individual strategies used, **predicted emotion regulation outcomes**.
