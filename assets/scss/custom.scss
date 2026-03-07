@@ -7,3 +7,8 @@
   padding-left: 5rem;
   padding-right: 5rem;
 }
+
+.avatar {
+  image-rendering: -webkit-optimize-contrast;
+  transform: translateZ(0);
+}
