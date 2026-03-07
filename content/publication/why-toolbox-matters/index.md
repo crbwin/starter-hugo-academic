@@ -22,14 +22,7 @@ publication_types: ["2"]
 publication: "*Emotion*"
 publication_short: ""
 
-## Video Overview
-
-<iframe width="560" height="315"
-src="https://www.youtube.com/embed/__uwg12CEwE?si=XAEmsR6RrviRKM3u"
-title="YouTube video player"
-frameborder="0"
-allowfullscreen>
-</iframe>
+{{< youtube __uwg12CEwE?si=XAEmsR6RrviRKM3u >}}
 
 abstract: 'Emerging research indicates that people use multiple strategies to manage their emotions in everyday life. Yet, we know little about what these strategy combinations look like, how they function, or how individual differences influence these phenomena. We addressed these issues in two, 2-week daily diary studies performed during the height of the COVID-19 pandemic (N = 422; data collected April and September 2020). Each evening, participants rated their level of COVID-19 anxiety and indicated which of 18 emotion regulation strategies they used to manage it. There was tremendous diversity in the strategy combinations people used: 74% of the combinations were unique across participants and included strategies seldom studied together (e.g., exercise, journaling, social interaction, and cognitive reframing). On average, using a given strategy predicted same-day use of another strategy with only 1% accuracy. Despite this variability, a set of features consistently predicted effective regulation: Using large and healthy repertoires of strategies in diverse ways predicted reductions in anxiety over time. Psychologically distressed individuals experienced more daily anxiety and drew on a wider but more unhealthy set of strategies. However, when they used adaptive strategy combinations, they benefited just as much as less distressed individuals. These results illuminate the anatomy of people’s emotion regulatory lives, underscoring the need to develop frameworks that capture the diverse ways people manage their emotions. They also identify specific mechanisms that interventions can target to improve how people manage their emotions under ecologically valid conditions.'
 
