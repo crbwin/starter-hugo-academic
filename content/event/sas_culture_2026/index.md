@@ -13,6 +13,7 @@ location: SAS 2026
 #  country: United States
 
 summary: 'Emotion is intimately linked to health everywhere, yet emotion is fundamentally formed through culture. Is it's influence on physical health different in different cultural contexts?'
+
 abstract: 'Emotions can dramatically influence health. Yet, the link between emotions and health doesn’t seem to be the same everywhere. What's still unclear is how it differs. In this talk, I present new evidence across 165 countries detailing variation in the emotion-health relationship and factors that may explain systematic cross-cultural variation in this link.'
 
 # Talk start and end times.
