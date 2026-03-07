@@ -67,7 +67,13 @@ projects: []
 #slides: "example"
 ---
 
-{{< youtube __uwg12CEwE?si=XAEmsR6RrviRKM3u >}}
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;">
+  <iframe src="https://www.youtube.com/embed/__uwg12CEwE?si=XAEmsR6RrviRKM3u"
+  style="position:absolute;top:0;left:0;width:100%;height:100%;"
+  frameborder="0"
+  allowfullscreen>
+  </iframe>
+</div>
 
 Chayce's take-homes:
 1. We documented the diverse combinations of strategies people organically use in daily life. And they are diverse: **74% of the more than 5,000 strategy combinations reported in our study were only used by one person, one time.**
