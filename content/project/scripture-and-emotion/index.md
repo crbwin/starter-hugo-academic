@@ -1,6 +1,6 @@
 ---
 title: Emotion in Scripture
-summary: An example of using the in-built project page.
+summary: What can we learn about religious cultures of emotion through ancient scripture?
 tags:
   - Deep Learning
 date: '2016-04-27T00:00:00Z'
@@ -9,7 +9,7 @@ date: '2016-04-27T00:00:00Z'
 external_link: ''
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Depiction of Sikh scripture, the Guru Granth Sahib
   focal_point: Smart
 
 links:
