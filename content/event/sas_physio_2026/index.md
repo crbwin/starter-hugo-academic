@@ -2,7 +2,7 @@
 title: Regulating the body to regulate emotion
 
 event: Society for Affective Science Clinical Pre-Conference
-event_url: https://example.org
+event_url: https://society-for-affective-science.org/2026-sas-annual-conference/
 
 location: SAS 2026
 # address:
@@ -12,13 +12,13 @@ location: SAS 2026
 #  postcode: '94305'
 #  country: United States
 
-summary: An example talk using Wowchemy's Markdown slides feature.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+summary: "Body-based strategies can be powerful ways to cumulatively regulate emotion."
+abstract: "Everyday behaviors like eating, moving, sleeping, and breathing are among the most widely recommended stress-coping strategies by leading health organizations, yet they lack integration into our understanding of and theory on emotion regulation. I review a wide swath of research from diverse fields such as health psychology, clinical psychology, psychiatry, exercise science, nutrition science, and neuroscience to show that these behaviors can be an effective way to reduce emotional disorders and facilitate long-term regulated emotion."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2026-03-12T13:00:00Z'
-date_end: '2026-03-12T15:00:00Z'
+date: '2026-03-12T12:00:00Z'
+date_end: '2026-03-12T16:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
@@ -49,7 +49,7 @@ url_video: ''
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+slides: ""
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
@@ -60,14 +60,3 @@ projects:
   - example
 ---
 
-{{% callout note %}}
-Click on the **Slides** button above to view the built-in slides feature.
-{{% /callout %}}
-
-Slides can be added in a few ways:
-
-- **Create** slides using Wowchemy's [_Slides_](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
-
-Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.
