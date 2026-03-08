@@ -27,11 +27,14 @@ tags:
 - Source Themes
 featured: false
 
+links:
+  - name: OSF
+    url: 'https://osf.io/cdprk/'
 # links:
 # - name: ""
 #   url: ""
 url_pdf: 'https://www.nature.com/articles/s41598-025-12672-6'
-url_code: 'https://osf.io/cdprk/'
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
