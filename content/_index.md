@@ -51,6 +51,7 @@ sections:
       columns: '2'
       view: card
   - block: collection
+    id: allpubs
     content:
       title: Recent Publications
       count: 4
