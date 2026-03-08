@@ -28,6 +28,9 @@ tags:
 - Source Themes
 featured: false
 
+links:
+  - name: OSF
+    url: 'https://osf.io/cdprk/'
 # links:
 # - name: ""
 #   url: ""
