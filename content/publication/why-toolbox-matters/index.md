@@ -32,11 +32,14 @@ tags: []
 
 featured: true
 
+links:
+  - name: OSF
+    url: 'https://osf.io/b2duy'
 # links:
 # - name: ""
 #   url: ""
 url_pdf: 'https://sites.lsa.umich.edu/emotion-selfcontrol-psych/wp-content/uploads/sites/1322/2025/01/COVIDAnxiety_EmoRegToolbox_Emotion_2025-1.pdf'
-url_code: 'https://osf.io/b2duy'
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
