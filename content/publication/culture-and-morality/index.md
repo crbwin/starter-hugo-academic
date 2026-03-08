@@ -30,12 +30,12 @@ featured: false
 
 links:
   - name: OSF
-    url: 'https://osf.io/cdprk/'
+    url: 'https://osf.io/vz3m8/'
 # links:
 # - name: ""
 #   url: ""
 url_pdf: 'https://par.nsf.gov/servlets/purl/10557413'
-url_code: 'https://osf.io/cdprk/'
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
