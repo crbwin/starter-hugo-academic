@@ -14,7 +14,7 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: /../../../assets/media/icons/bluesky.svg.png
+  - icon: link
     link: https://bsky.app/profile/chaycebaldwin.bsky.social
     label: Follow me on Bluesky
     display:
