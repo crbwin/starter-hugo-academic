@@ -35,7 +35,7 @@ url_video: ''
 slides: ""
 ---
 
-Decades of research has demonstrated how emotions and health are intimately linked: negative emotions can lead to increased stress and health problems, like heart conditions. Loneliness predicts negative health outcomes across the board, including longevity. Emotions are widely felt somatically in the body through aches, pains, and discomfort. An entire field of study, psychoneuroimmunology, has stemmed from the observation of this link and has produced insights into how emotions impact our health and immune functioning. And positive emotions matter, too: they can substantially *improve* health. 
+Decades of research has demonstrated how emotions and health are intimately linked: negative emotions can lead to increased stress and health problems, like heart conditions. Emotions are widely felt somatically in the body through aches, pains, and discomfort. Loneliness predicts negative health outcomes across the board, including longevity. An entire field of study, psychoneuroimmunology, has stemmed from the observation of this link and has produced insights into how emotions impact our health and immune functioning. And positive emotions matter, too: they can substantially *improve* health. 
 
 While there is no question that emotion and health are strongly linked, its still unclear whether culture plays a prominent role in shaping this relationship. On the one hand, the experience, interpretation, and regulation of emotion is dramatically shaped, even constructed through, culture. On the other hand, the connection between emotion and health may be evolved, innate, and physiologically functional in a way that transcends sociocultural context. 
 
