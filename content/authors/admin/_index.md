@@ -14,10 +14,10 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: twitter
+  - icon: bluesky
     icon_pack: fab
-    link: https://twitter.com/chayce_baldwin
-    label: Follow me on Twitter
+    link: https://bsky.app/profile/chaycebaldwin.bsky.social
+    label: Follow me on Bluesky
     display:
       header: true
   - icon: google-scholar
