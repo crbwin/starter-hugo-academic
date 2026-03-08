@@ -35,4 +35,7 @@ url_video: ''
 slides: ""
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+Even with the rise of secularization, 4 out of 5 people in the world today (read: 6.5 billion people) are religious. Yet, we know relatively little about how engaging with religious institutions, practices, and cultures impacts our everyday psychological experience--leaving a conspicuous chunk of human life out of our leading psychological theories and frameworks. Critically, *emotion* has long been recognized as central to religion (hello, E. Durkheim and W. James), and even more importantly, religion may play a central role in shaping the everyday emotion of it's constituents.
+
+[go into the scriptuer and using historical texts.]
+
