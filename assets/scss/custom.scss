@@ -1,11 +1,17 @@
-.container {
-  max-width: 1600px;
-}
 
 /* Add breathing room without breaking section backgrounds */
 .container {
+  max-width: 1600px;
   padding-left: 5rem;
   padding-right: 5rem;
+}
+
+/* On mobile, reduce the padding */
+@media (max-width: 768px) {
+  .container {
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
 }
 
 .avatar {
