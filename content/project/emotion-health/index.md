@@ -35,4 +35,12 @@ url_video: ''
 slides: ""
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+Decades of research has demonstrated how emotions and health are intimately linked: negative emotions can lead to increased stress and health problems, like heart conditions. Loneliness predicts negative health outcomes across the board, including longevity. Emotions are widely felt somatically in the body through aches, pains, and discomfort. An entire field of study, psychoneuroimmunology, has stemmed from the observation of this link and has produced insights into how emotions impact our health and immune functioning. And positive emotions matter, too: they can substantially *improve* health. 
+
+While there is no question that emotion and health are strongly linked, its still unclear whether culture plays a prominent role in shaping this relationship. On the one hand, the experience, interpretation, and regulation of emotion is dramatically shaped, even constructed through, culture. On the other hand, the connection between emotion and health may be evolved, innate, and physiologically functional in a way that transcends sociocultural context. 
+
+We are working to better understand what this link looks like across the globe and how we can better use our bodies to effectively regulate emotion. For example, in one project, we combined 5 cross-cultural data sets to assess the links between loneliness and health across 350,000 people and 58 countries (currently under review). In another, we are testing comprehensive cultural explanations for the link between negative and positive emotion and health outcomes across 165 countries. 
+
+
+
+
