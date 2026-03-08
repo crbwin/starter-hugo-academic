@@ -29,11 +29,14 @@ tags:
 - Source Themes
 featured: false
 
+links:
+  - name: OSF
+    url: 'https://osf.io/4n7md/'
 # links:
 # - name: ""
 #   url: ""
 url_pdf: '/uploads/SAT-and-self-control.pdf'
-url_code: 'https://osf.io/4n7md/overview'
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
