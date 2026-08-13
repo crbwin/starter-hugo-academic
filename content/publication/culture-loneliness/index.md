@@ -1,13 +1,21 @@
 ---
 title: "Health risks of living alone and loneliness vary systematically across 58 nations"
 authors:
-  - Micaela Rodriguez*
-  - admin**
+  - Micaela Rodriguez
+  - admin
   - Alexandra Wormey
   - Carley Vornlocher
   - Ethan Kross
   - Maya Tamir
   - Shinobu Kitayama
+author_notes:
+  - "Equal contribution"
+  - "Equal contribution"
+  - ""
+  - ""
+  - ""
+  - ""
+  - ""
 date: "in press"
 doi: ""
 
@@ -25,7 +33,7 @@ abstract: 'Loneliness and social isolation are recognized as global health conce
 
 # Summary. An optional shortened abstract.
 
-summary: 'Loneliness and living alone are recognized as global health concerns, yet most evidence comes from Western countries. Here, we show that the links between these experiences and health vary widely and systematically across 58 countries.'
+summary: 'Loneliness and living alone are recognized as global health concerns, yet most evidence comes from Western countries. Here, we combine 5 large cross-cultural datasets (*N* ~ 350,000) to show that the links between these experiences and health vary widely and systematically across 58 countries.'
 
 tags: []
 
