@@ -18,6 +18,7 @@ author_notes:
   - ""
 date: "in press"
 doi: ""
+show_date: false
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -27,7 +28,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*Nature Communications*"
-publication_short: ""
+publication_short: "*Nature Communications*, in press"
 
 abstract: 'Loneliness and social isolation are recognized as global health concerns. Yet, little is known about how these experiences are linked to health in non-Western contexts, and whether these associations vary systematically across cultures. In this pre-registered study, we combine five large-scale cross-cultural datasets to examine the associations between loneliness, living alone, and a range of subjective mental and physical health indicators in 352,556 individuals across 58 nations spanning six continents. We find that across countries, loneliness is significantly linked to poorer mental and physical health, whereas living alone is inconsistently associated with health. These links are moderated by country-level collectivism and relational mobility: In more collectivistic societies, loneliness is less strongly linked to poorer mental and physical health, and living alone is weakly linked to some indicators of better mental health. In more relationally mobile societies, loneliness is more strongly linked to depression and anxiety, and living alone is weakly linked to better mental health. Results further demonstrate that while living alone is weakly associated with loneliness overall, this varies across countries, and with level of collectivism. Together, these findings underscore the contextual nature of the relationships between loneliness, living alone, and health across cultures.'
 
