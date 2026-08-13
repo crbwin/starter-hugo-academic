@@ -8,16 +8,17 @@ authors:
   - JongSung Yoon
 date: "2026-06-16T19:22:59.468Z"
 doi: ""
+show_date: false
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["0"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*Journal of Experimental Psychology: General*"
-publication_short: ""
+publication_short: "in press | *Journal of Experimental Psychology: General*"
 
 abstract: 'The range restriction hypothesis suggests that intelligence–performance correlations may be underestimated in domains like chess, where most players have above-average cognitive ability. We test this hypothesis using Baduk (Go), a game of even greater complexity but, apparently, without the range restrictions in intelligence typically observed in chess. In Study 1A, experts reported significantly more serious practice alone than amateurs (d = 1.42), but scored lower in fluid intelligence (d = -1.78). In Study 1B, we invited participants back to complete a revised matrix reasoning task. We preregistered that we would observe the same finding with the new measure and, again, experts scored worse in fluid intelligence than amateurs (d = -1.79). However, this effect was no longer significant when controlling for education—suggesting that the observed intelligence gap may reflect developmental tradeoffs rather than a true cognitive disadvantage among experts. Rather than fluid intelligence driving expertise, time investments in schooling versus practice appear to shape both cognitive scores and Baduk skill.'
 
