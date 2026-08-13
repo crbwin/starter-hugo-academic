@@ -59,7 +59,7 @@ email: ""
 
 <b>I study how people thrive inside the systems they live and work in—and how they can do so better. </b> I especially examine this through the lens of affective processes, such as the experience and regulation of emotion. 
 
-Well-being isn’t achieved in isolation. It is produced in and through peoples’ bodies, relationships, cultures, and organizations. So, in my research I look beyond individuals to the systems configuring their everyday life to understand how the structure and dynamics of those systems shape thriving. 
+Well-being isn’t achieved in isolation. It is produced in and through peoples’ bodies, relationships, cultures, and organizations. So, I look beyond individuals to the systems configuring their everyday life—and how the structure and dynamics of these systems shape thriving. 
 
 To do this work, I integrate perspectives and methods from social, affective, and cultural psychology with complex systems, sociology, and computational science. 
 
