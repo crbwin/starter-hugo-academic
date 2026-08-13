@@ -57,9 +57,9 @@ email: ""
 
 <br>I am a PhD candidate in Social Psychology at the University of Michigan, working with Drs. [Ethan Kross](https://lsa.umich.edu/psych/people/faculty/ekross.html) and [Shinobu Kitayama](https://lsa.umich.edu/psych/people/faculty/kitayama.html).   
 
-<b>I study how people thrive inside the systems they live and work in—and how they can do so better. </b> I especially examine this through the lens of affective processes, such as the experience and regulation of emotion. 
+<b>I study how people thrive within the systems in which they live and work—and how they can do so better. </b> I largely focus on examining this through the lens of affective processes, such as the experience and regulation of emotion. 
 
-Well-being isn’t achieved in isolation. It is produced in and through peoples’ bodies, relationships, cultures, and organizations. So, I look beyond individuals to the systems configuring their everyday life—and how the structure and dynamics of these systems shape thriving. 
+Well-being isn’t achieved in isolation. It is produced in and through peoples' bodies, relationships, cultures, and organizations. In my research, I look beyond individuals to the systems configuring their everyday life—and how the structure and dynamics of these systems shape thriving. 
 
 To do this work, I integrate perspectives and methods from social, affective, and cultural psychology with complex systems, sociology, and computational science. 
 
