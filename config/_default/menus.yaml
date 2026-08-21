@@ -22,3 +22,9 @@ main:
   - name: CV
     url: uploads/resume.pdf
     weight: 70
+
+# External link — the theme automatically adds target="_blank" rel="noopener"
+# to any menu URL starting with "http", so this opens in a new tab.
+  - name: r4psych.org
+    url: 'https://www.r4psych.org/'
+    weight: 80
